@@ -6,6 +6,7 @@ Higher education. Graduated from the faculty of economics and management of Grod
 # Skills 
 - Good analytical skills, the ability to structure large amounts of data;
 - Marketing analysis;
+- SQL;
 - Advanced PC user, including Microsoft office suite (Excel, PowerPoint, Word);
 - Languages: English - B2 - Intermediate, German - A1 - Beginner.
 # Personal qualities
